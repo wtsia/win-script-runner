@@ -1,6 +1,9 @@
 # win-script-runner
 A WebUI that broadcasts locally and uses inputs for running custom scripts on Windows. 
 
+# TODO:
+Fix script execution and output
+
 # Prerequisites
 Python Installation: Ensure you have Python installed on your Windows machine. You can download it from python.org.
 
